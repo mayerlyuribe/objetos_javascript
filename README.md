@@ -66,3 +66,9 @@ d. Llegado este punto, el encargado está a punto de mostrar satisfecho al
 profesor el resultado de su vigilancia.
 
 4) Muestra el 'LISTADO DE ALUMNOS QUE HAN ABIERTO LA BOCA'
+
+## ejercicio 2.
+
+Escribir un programa que guarde en una variable el diccionario {'Euro':'€', 'Dollar':'$',
+'Yen':'¥'}, pregunte al usuario por una divisa y muestre su símbolo o un mensaje de aviso
+si la divisa no está en el diccionario.
