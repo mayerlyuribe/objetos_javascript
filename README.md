@@ -85,3 +85,9 @@ Escribir un programa que guarde en un diccionario los precios de las frutas de l
 pregunte al usuario por una fruta, un número de kilos y muestre por pantalla el precio
 de ese número de kilos de fruta. Si la fruta no está en el diccionario debe mostrar un
 mensaje informando de ello.
+
+## ejercicio 5. 
+Escribir un programa que cree un diccionario simulando una cesta de la compra. El
+programa debe preguntar el artículo y su precio y añadir el par al diccionario, hasta que
+el usuario decida terminar. Después se debe mostrar por pantalla la lista de la compra
+y el coste total, con el siguiente formato
